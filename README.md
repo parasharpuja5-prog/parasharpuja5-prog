@@ -55,7 +55,15 @@ An interactive Power BI dashboard analyzing economic and population trends from 
 - 📈 Population growth trends across 50+ years and all US states
 - 🎨 Custom professional theme for a polished, recruiter-ready look
 - 📁 Includes raw data, custom theme JSON, and full Power BI template
+✨ Features
 
+
+🗺️ Interactive US map — click any state to filter the entire report
+📅 Year slicer — explore any time period from 1900 to present
+📊 Dynamic KPI cards — auto-updating metrics based on selection
+🎨 Custom professional theme — consistent navy & ocean blue color palette
+🔍 Drillthrough — right-click any state for a dedicated detail page
+📱 Clean layout — designed for both desktop and presentation use
 ---
 
 ## 📊 GitHub Stats
