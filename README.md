@@ -58,15 +58,13 @@ An interactive Power BI dashboard analyzing economic and population trends from 
 ✨ Features
 
 
-🗺️ Interactive US map — click any state to filter the entire report
-📅 Year slicer — explore any time period from 1900 to present
-📊 Dynamic KPI cards — auto-updating metrics based on selection
-🎨 Custom professional theme — consistent navy & ocean blue color palette
-🔍 Drillthrough — right-click any state for a dedicated detail page
-📱 Clean layout — designed for both desktop and presentation use
----
+🗺️ Interactive US map — click any state to filter the entire report</br>
+📅 Year slicer — explore any time period from 1900 to present</br>
+📊 Dynamic KPI cards — auto-updating metrics based on selection</br>
+🎨 Custom professional theme — consistent navy & ocean blue color palette</br>
+🔍 Drillthrough — right-click any state for a dedicated detail page</br>
+📱 Clean layout — designed for both desktop and presentation use</br>
 
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=poojasharma&show_icons=true&theme=default&hide_border=true&title_color=1A3A5C&icon_color=2E86AB&text_color=334E68" width="48%" />
