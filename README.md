@@ -18,7 +18,7 @@ I'm a **Data Analyst** with 1–2 years of experience turning raw data into clea
 
 - 📊 Passionate about data visualization and storytelling with data
 - 🔍 Experienced in cleaning, transforming, and analyzing complex datasets
-- 📈 Currently working on: **US Economic Dashboard** (Power BI)
+- 📈 Currently working on: **Economic Dashboard** (Power BI)
 - 🌱 Always learning — exploring advanced DAX, Python automation, and machine learning
 - 💡 I believe good data analysis should be simple enough for anyone to understand
 
@@ -47,7 +47,6 @@ I'm a **Data Analyst** with 1–2 years of experience turning raw data into clea
 
 ## 📂 Featured Projects
 
-### 🇺🇸 [US Economic Dashboard](https://github.com/poojasharma/us-economic-dashboard)
 > **Power BI • DAX • GeoJSON • CSV**
 
 An interactive Power BI dashboard analyzing US state-level economic and population trends from 1900 to present.
