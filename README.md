@@ -58,7 +58,7 @@ An interactive Power BI dashboard analyzing economic and population trends from 
 ✨ Features
 
 
-🗺️ Interactive US map — click any state to filter the entire report</br>
+🗺️ Interactive map — click any state to filter the entire report</br>
 📅 Year slicer — explore any time period from 1900 to present</br>
 📊 Dynamic KPI cards — auto-updating metrics based on selection</br>
 🎨 Custom professional theme — consistent navy & ocean blue color palette</br>
