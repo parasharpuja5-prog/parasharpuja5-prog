@@ -49,9 +49,9 @@ I'm a **Data Analyst** with 1–2 years of experience turning raw data into clea
 
 > **Power BI • DAX • GeoJSON • CSV**
 
-An interactive Power BI dashboard analyzing US state-level economic and population trends from 1900 to present.
+An interactive Power BI dashboard analyzing economic and population trends from 1900 to present.
 
-- 📍 State-level geographic mapping with filled choropleth maps
+- 📍 Country-level geographic mapping with filled choropleth maps
 - 📈 Population growth trends across 50+ years and all US states
 - 🎨 Custom professional theme for a polished, recruiter-ready look
 - 📁 Includes raw data, custom theme JSON, and full Power BI template
