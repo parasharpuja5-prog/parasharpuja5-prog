@@ -24,6 +24,16 @@ I'm a **Data Analyst** with 1–2 years of experience turning raw data into clea
 
 ---
 
+<p align="center">
+  
+  <img src="https://github.com/parasharpuja5-prog/parasharpuja5-prog/blob/main/Global%20Ecnomic.png?raw=true" width="48%" />
+  &nbsp;
+  <img src="https://github.com/parasharpuja5-prog/parasharpuja5-prog/blob/ad6e8b4e52859d426855c191f429e8ff9688a4ca/GlobalEconomic_bycountry.png" width="40%" />
+<img src="https://github.com/parasharpuja5-prog/parasharpuja5-prog/blob/ad6e8b4e52859d426855c191f429e8ff9688a4ca/Drill.png" width="40%" />
+<img src="https://github.com/parasharpuja5-prog/parasharpuja5-prog/blob/55ced4a330bce36b781a3473ea9521d2006822d4/gdp_country.png" width="40%" />
+</p>
+
+
 ## 🛠️ Tools & Skills
 
 <p align="left">
@@ -66,11 +76,6 @@ An interactive Power BI dashboard analyzing economic and population trends from 
 📱 Clean layout — designed for both desktop and presentation use</br>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poojasharma&show_icons=true&theme=default&hide_border=true&title_color=1A3A5C&icon_color=2E86AB&text_color=334E68" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojasharma&layout=compact&hide_border=true&title_color=1A3A5C&text_color=334E68" width="40%" />
-</p>
 
 ---
 
